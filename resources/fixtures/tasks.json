@@ -1,0 +1,57 @@
+{
+    "create": {
+        "user": {
+            "name": "Thiago Fritz",
+            "email": "fritz@gmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Completar missão",
+            "tags": ["missão", "ordem", "em andamento"]
+        }
+    },
+    "duplicate": {
+        "user": {
+            "name": "Cesar Cohen",
+            "email": "cohen@gmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Terminar de desenvolver site",
+            "tags": []
+        }
+    },
+    "tags_limit": {
+        "user": {
+            "name": "Joui Jouki",
+            "email": "jouki@gmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Preparar aula",
+            "tags": ["aula", "preparação", "ginástica", "importante"]
+        }
+    },
+    "done": {
+        "user": {
+            "name": "Arthur Cervero",
+            "email": "arthur@gauderio.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Ensaiar apresentação do show",
+            "tags": ["ensaio", "show", "banda"]
+        }
+    },
+    "delete": {
+        "user": {
+            "name": "Dante",
+            "email": "dante@gmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Estudar",
+            "tags": ["estudo"]
+        }
+    }
+}
