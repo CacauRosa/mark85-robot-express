@@ -1,6 +1,6 @@
 # 🤖 Testes Automatizados com Robot Framework - Aplicação Mark 85
 
-Este repositório contém o código desenvolvido durante as aulas do [curso **Robot eXpress**](https://www.udemy.com/course/robot-express/), em conjunto com o professor Fernando Papito, com foco na automação de testes Web para a aplicação **Mark 85**, utilizando **MongoDB** como base de dados.
+Este repositório contém o código desenvolvido durante as aulas do [curso **Robot eXpress**](https://www.udemy.com/course/robot-express/) na plataforma Udemy, em conjunto com o professor Fernando Papito, com foco na automação de testes Web para a aplicação **Mark 85**, utilizando **MongoDB** como base de dados.
 
 ## 📌 Sobre o Projeto
 
