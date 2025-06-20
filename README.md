@@ -2,6 +2,9 @@
 
 Este repositório contém o código desenvolvido durante as aulas do [curso **Robot eXpress**](https://www.udemy.com/course/robot-express/) na plataforma Udemy, em conjunto com o professor Fernando Papito ao acompanhar suas aulas ao longo do curso, com foco na automação de testes Web para a aplicação **Mark 85**, utilizando **MongoDB** como base de dados.
 
+O curso foi proposto durante o Estágio de QA na Compass UOL. O link para o repositório com todos os conteúdos consumidos e projetos realizados durante o estágio pode ser acessado em:
+> 🔗 **Repositório com projetos do estágio na Compass UOL:** https://github.com/CacauRosa/repo-compass-ana-carolina
+
 ## 📌 Sobre o Projeto
 
 Durante o curso, foram explorados conceitos fundamentais de automação de testes web com o **Robot Framework**, aplicados diretamente em uma aplicação real: **Mark 85**.
